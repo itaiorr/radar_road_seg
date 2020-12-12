@@ -1,5 +1,7 @@
 # High resolution RADAR road segmentation using weakly supervised learning
 
+[![DOI](https://zenodo.org/badge/320796887.svg)](https://zenodo.org/badge/latestdoi/320796887)
+
 ## Abstract
 Autonomous driving has recently gained significant attention due to its disruptive potential and impact on global economy. However, these high expectations are hindered by strict safety requirements for redundant sensing modalities each able to independently perform complex tasks to ensure reliable operation. 
 At the core of an autonomous driving algorithmic stack is road segmentation which is the basis for numerous planning and decision-making algorithms. RADAR-based methods fail in many driving scenarios, mainly since various common road delimiters barely reflect RADAR signals, coupled with lack of analytical model of road delimiters and inherit limitations in RADAR angular resolution.
