@@ -10,7 +10,7 @@ Our approach is based on RADAR data in the form of 2D complex range-Doppler arra
 ## Publication 
 https://www.nature.com/articles/s42256-020-00288-6
 
-## Publicy available version
+## Publicly available version
 https://www.nature.com/articles/s42256-020-00288-6.epdf?sharing_token=cbVIpW3D9XH24021jMN9J9RgN0jAjWel9jnR3ZoTv0PFDQt3hgiccGGeWGZ3fl_GDw8luPQiL3MFGFA2GUMu_S1hmJWI_xTcysPJaMOZ661o7QB44pOxwyhTMgGnSbD6SPV-7lYL7rjCU7cDu9MR81b1w7JFUhmLjQ-yRjFTrJM%3D
 
 ## Dependencies
